@@ -2,7 +2,7 @@
 
 Novo projeto Flutter fasam
 
-![app retrofit](https://github.com/edgaregidio/app-photos/blob/master/app-flutter-json.gif)
+![app retrofit](https://github.com/edgaregidio/app-fotos-flutter/blob/master/appflutterphotos.gif)
 
 ## Getting Started
 
